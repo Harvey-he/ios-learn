@@ -16,3 +16,6 @@ iOS开发学习总结
 ###视频教程
 
 [斯坦福iOS开发视频教程](http://v.163.com/special/opencourse/ios7.html)
+
+###开发语言
+[The Swift Programming Language 中文版](https://www.gitbook.com/book/numbbbbb/-the-swift-programming-language-/details)
