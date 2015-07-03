@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8585696A-3495-4128-8F6C-F5645E2A8F0A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ToDoList</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CFB4C319DE711CED99673CBB71742214EC6BA3E2</key>
+		<string>https://github.com/Harvey-he/ios-learn.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>example/ToDoList/ToDoList.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CFB4C319DE711CED99673CBB71742214EC6BA3E2</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Harvey-he/ios-learn.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CFB4C319DE711CED99673CBB71742214EC6BA3E2</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CFB4C319DE711CED99673CBB71742214EC6BA3E2</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ios-learn</string>
+		</dict>
+	</array>
+</dict>
+</plist>
