@@ -392,6 +392,15 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits"/>
                             </textField>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="hello" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="aCg-Z1-ogE">
+                                <rect key="frame" x="0.0" y="-21" width="42" height="21"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                                <nil key="highlightedColor"/>
+                                <variation key="heightClass=regular" fixedFrame="YES">
+                                    <rect key="frame" x="282" y="389" width="37" height="21"/>
+                                </variation>
+                            </label>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                         <constraints>
@@ -404,6 +413,7 @@
                         <variation key="default">
                             <mask key="subviews">
                                 <exclude reference="FWo-jE-99n"/>
+                                <exclude reference="aCg-Z1-ogE"/>
                             </mask>
                             <mask key="constraints">
                                 <exclude reference="5XS-LP-k6i"/>
@@ -414,6 +424,7 @@
                         <variation key="heightClass=regular">
                             <mask key="subviews">
                                 <include reference="FWo-jE-99n"/>
+                                <include reference="aCg-Z1-ogE"/>
                             </mask>
                             <mask key="constraints">
                                 <include reference="5XS-LP-k6i"/>
@@ -434,7 +445,6 @@
                             </connections>
                         </barButtonItem>
                     </navigationItem>
-                    <simulatedScreenMetrics key="simulatedDestinationMetrics"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="x5A-6p-PRh" sceneMemberID="firstResponder"/>
                 <exit id="wmQ-xm-G8d" userLabel="Exit" sceneMemberID="exit"/>
